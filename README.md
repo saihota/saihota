@@ -7,7 +7,9 @@
 - - - -
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" href="https://www.youtube.com/channel/UC48_jEvOzZSiKnSR4PjS_HQ/">
+  <a href="https://www.youtube.com/channel/UC48_jEvOzZSiKnSR4PjS_HQ/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg">
+  </a>
 </div>
 
 - - - -
