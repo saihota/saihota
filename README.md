@@ -39,9 +39,10 @@ hobbies:
 
 <div align="center">
 
-XD
+<img alt="Subcribers count" src="https://img.shields.io/youtube/channel/subscribers/UC48_jEvOzZSiKnSR4PjS_HQ?color=blue&label=Subs&logoColor=red&style=social">
 
 </div>
+
 - - - -
 
 ### ☕ • Connect Me :-   
