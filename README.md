@@ -7,9 +7,9 @@
 - - - -
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UC48_jEvOzZSiKnSR4PjS_HQ/">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
-  </a>
+  <a href="https://www.youtube.com/channel/UC48_jEvOzZSiKnSR4PjS_HQ">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC48_jEvOzZSiKnSR4PjS_HQ&key=AIzaSyAWxk7GrjvQjU2I2c-R6EHQO4frrp0Z0JQ"/>
+</a>
 </div>
 
 - - - -
