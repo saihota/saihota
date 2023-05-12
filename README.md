@@ -7,3 +7,18 @@
 - - - -
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" href="https://www.youtube.com/channel/UC48_jEvOzZSiKnSR4PjS_HQ/">
+</div>
+
+- - - -
+
+<h3 align="center">✨ - About Me - ✨</h3>
+
+
+```sh
+Name - "sai kamal hota"
+
+located_in: "Odisha, India" 
+
+```
+
