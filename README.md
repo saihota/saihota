@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UC48_jEvOzZSiKnSR4PjS_HQ/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white">
   </a>
 </div>
 
@@ -18,9 +18,10 @@
 
 
 ```sh
-Name - "sai kamal hota"
 
-located_in: "Odisha, India" 
+name: "sai kamal hota"
+
+located_in: "Odisha, India"
 
 ```
 
