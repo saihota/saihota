@@ -1,13 +1,11 @@
 <p align="center" style="font-style: MM Indento Italic;">
   <img src="https://capsule-render.vercel.app/api?text=Hey,%20Its%20Sai&animation=fadeIn&type=waving&height=100&color=gradient&section=header" />
   <h4 align="center">—— Sai Kamal Hota ——</h4>
-  <h5 align="center">– Youtube –</h5>
 </p>
     
 - - - -
 
 <h3 align="center">Spotify Integrations</h3>
-<h3 align="center">Youtube Integrations</h3>
 
 - - - -
 
@@ -37,6 +35,15 @@ hobbies:
 
 - - - -
 
+### ❤️ • Check my youtube channel :-
+
+<div align="center">
+
+XD
+
+</div>
+- - - -
+
 ### ☕ • Connect Me :-   
 
 <div align="center">   
@@ -51,6 +58,4 @@ hobbies:
 
 <p align="center" style="font-style: MM Indento Italic;">
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&height=100&color=gradient&section=footer" />
-  <h4 align="center">—— Sai Kamal Hota ——</h4>
-  <h5 align="center">– Youtube –</h5>
 </p>
