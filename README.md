@@ -37,12 +37,9 @@ hobbies:
 
 ### ❤️ • Check my youtube channel :-
 
-<div align="right">
+<div align="left">
 
-[![My Yt Stats](https://youtube-stats-card.vercel.app/api?channelid=UC48_jEvOzZSiKnSR4PjS_HQ&layout=extruded&theme=highcontrast)](https://www.youtube.com/channel/UC48_jEvOzZSiKnSR4PjS_HQ)
-
-[![Channel Visits](https://img.shields.io/youtube/channel/views/UC48_jEvOzZSiKnSR4PjS_HQ?label=Channel%20Visits&style=social)]()
-[![Subscribers Count](https://img.shields.io/youtube/channel/subscribers/UC48_jEvOzZSiKnSR4PjS_HQ?color=blue&label=Subs&logoColor=red&style=social)]()
+[![My Yt Stats](https://youtube-stats-card.vercel.app/api?channelid=UC48_jEvOzZSiKnSR4PjS_HQ&theme=highcontrast)](https://www.youtube.com/channel/UC48_jEvOzZSiKnSR4PjS_HQ)
 
 </div>
 
