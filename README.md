@@ -32,8 +32,8 @@ experience: "null"
 hobbies: 
   [
     "Learn Coding",
-    "Pilot Dreamer :airplane: ",
-    "To crack/become topper in any exam :100: ",
+    "Pilot Dreamer",
+    "To crack/become topper in any exam",
   ]
 
 ```
