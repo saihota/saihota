@@ -1,4 +1,4 @@
-<p align="center" style="font-style: MM Indento Italic;">
+<p align="center" style="font-style: Comic Sans;">
   <img src="https://capsule-render.vercel.app/api?text=Hey,%20Its%20Sai&animation=fadeIn&type=waving&height=100&color=gradient&section=header" />
   <h4 align="center">—— Sai Kamal Hota ——</h4>
 </p>
