@@ -1,4 +1,4 @@
-<p align="center" style="font-style:ComicSans;">
+<p align="center" style="font-style: MM Indento Italic;">
   <img src="https://capsule-render.vercel.app/api?text=Hey,%20Its%20Sai&animation=fadeIn&type=waving&height=100&color=gradient&section=header" />
   <h4 align="center">—— Sai Kamal Hota ——</h4>
 </p>
@@ -17,7 +17,6 @@
 
 <h3 align="center">✨ - About Me - ✨</h3>
 
-
 ```sh
 
 name: "sai kamal hota"
@@ -32,24 +31,12 @@ experience: "null"
 
 hobbies: 
   [
-    "",
-    "",
-    "",
+    "Learn Coding",
+    "Pilot Dreamer :airplane: ",
+    "To crack/become topper in any exam :100: ",
   ]
 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### ☕ • Connect Me :-   
 
@@ -66,7 +53,6 @@ hobbies:
 <p align="center" style="font-style: MM Indento Italic;">
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&height=100&color=gradient&section=footer" />
 </p>
-
 
 - - - -
 
