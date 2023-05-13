@@ -61,3 +61,8 @@ hobbies:
 <p align="center" style="font-style: MM Indento Italic;">
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&height=100&color=gradient&section=footer" />
 </p>
+
+
+- - - -
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/saihota/saihota)
