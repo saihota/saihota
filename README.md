@@ -5,7 +5,15 @@
     
 - - - -
 
-<h3 align="center">Spotify Integrations</h3>
+### ❤️ • Check my youtube channel :-
+
+<div align="center">
+
+
+
+[![My Yt Stats](https://youtube-stats-card.vercel.app/api?channelid=UC48_jEvOzZSiKnSR4PjS_HQ&theme=highcontrast)](https://www.youtube.com/channel/UC48_jEvOzZSiKnSR4PjS_HQ)
+
+</div>
 
 - - - -
 
@@ -33,17 +41,17 @@ hobbies:
 
 ```
 
-- - - -
 
-### ❤️ • Check my youtube channel :-
 
-<div align="left">
 
-[![My Yt Stats](https://youtube-stats-card.vercel.app/api?channelid=UC48_jEvOzZSiKnSR4PjS_HQ&theme=highcontrast)](https://www.youtube.com/channel/UC48_jEvOzZSiKnSR4PjS_HQ)
 
-</div>
 
-- - - -
+
+
+
+
+
+
 
 ### ☕ • Connect Me :-   
 
