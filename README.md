@@ -37,7 +37,7 @@ hobbies:
 
 ### ❤️ • Check my youtube channel :-
 
-<div align="center">
+<div align="right">
 
 [![My Yt Stats](https://youtube-stats-card.vercel.app/api?channelid=UC48_jEvOzZSiKnSR4PjS_HQ&layout=extruded&theme=highcontrast)](https://www.youtube.com/channel/UC48_jEvOzZSiKnSR4PjS_HQ)
 
