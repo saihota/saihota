@@ -33,7 +33,7 @@ hobbies:
   [
     "Learn Coding",
     "Pilot Dreamer",
-    "To crack/become topper in any exam",
+    "To crack/become topper in any upcoming exams",
   ]
 
 ```
