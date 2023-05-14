@@ -27,7 +27,7 @@ education: "Studying - 20XX - Current"
 
 state: "beginner in coding ( learning to code )"
 
-experience: "null"
+experience: "begineer"
 
 hobbies: 
   [
