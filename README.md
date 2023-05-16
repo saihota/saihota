@@ -20,14 +20,6 @@
 
 - - - -
 
-### 🎧 • Currently Vibing To -
-
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-integration-rho.vercel.app/api/" alt="Current Vibing To...">
-</a>
-
-- - - -
-
 ### ✨ • About Me -
 
 ```sh
