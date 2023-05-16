@@ -10,7 +10,7 @@
     
 - - - -
 
-### ❤️ • Check my youtube channel :-
+### ❤️ • Check my youtube channel -
 
 <div align="center">
 
@@ -20,15 +20,15 @@
 
 - - - -
 
-🎧 • Currently Listening To -
+### 🎧 • Currently Vibing To -
 
-<a href="https://github.com/saihota/saihota">
-  <img src="https://sai-eight.vercel.app/" alt="Current Vibing To">
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://sai-eight.vercel.app/api" alt="Current Vibing To...">
 </a>
 
 - - - -
 
-<h3 align="left">✨ - About Me - ✨</h3>
+### ✨ • About Me -
 
 ```sh
 
@@ -40,7 +40,7 @@ education: "Studying - 20XX - Current"
 
 state: "beginner in coding ( learning to code )"
 
-experience: "begineer"
+experience: "beginner"
 
 hobbies: 
   [
