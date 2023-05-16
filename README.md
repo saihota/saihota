@@ -3,7 +3,7 @@
   <h4 align="center">—— Sai Kamal Hota ——</h4>
   <h4 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=&#9473;+Youtuber+&#9473;)](https://git.io/typing-svg)\
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=&#9473;+Youtuber+&#9473;)](https://git.io/typing-svg)
 
 <h4>
 </p>
