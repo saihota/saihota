@@ -20,6 +20,14 @@
 
 - - - -
 
+🎧 • Currently Listening To -
+
+<a href="https://github.com/saihota/saihota">
+  <img src="https://sai-eight.vercel.app/" alt="Current Vibing To">
+</a>
+
+- - - -
+
 <h3 align="left">✨ - About Me - ✨</h3>
 
 ```sh
@@ -42,6 +50,8 @@ hobbies:
   ]
 
 ```
+
+- - - -
 
 ### ☕ • Connect Me :-   
 
