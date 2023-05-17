@@ -21,7 +21,7 @@
 - - - -
 
 <a href="">
-  <img src="https://spotify-integrations-v2-zhlw.vercel.app/api" alt="Nvm">
+  <img src="https://spotify-integrations-v2-zhlw.vercel.app/api" alt="Nvm" />
 </a>
 
 ### ✨ • About Me -
