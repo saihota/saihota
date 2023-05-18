@@ -63,7 +63,7 @@ hobbies:
 
 <div align="center">
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://saihota.github.io/saihot/profile/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://saihota.github.io/saihota/)
 
 </div>
 
