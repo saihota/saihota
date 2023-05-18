@@ -59,10 +59,12 @@ hobbies:
 
 - - - -
 
-<p align="center" style="font-style: MM Indento Italic;">
-  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&height=100&color=gradient&section=footer" />
-</p>
+### 📈 • Visit my <h2>Portfolio Website</h2>
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://saihota.github.io/saihot/profile/)
 
 - - - -
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/saihota/saihota)
+<p align="center" style="font-style: MM Indento Italic;">
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&height=100&color=gradient&section=footer" />
+</p>
