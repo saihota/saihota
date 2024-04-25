@@ -38,9 +38,8 @@ experience: "beginner"
 
 hobbies: 
   [
-    "Learn Coding",
-    "Pilot Dreamer",
-    "To crack/become topper in any upcoming exams",
+    "Learn Coding"
+    "Pilot Dreamer"
   ]
 
 ```
